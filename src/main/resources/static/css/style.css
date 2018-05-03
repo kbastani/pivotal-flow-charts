@@ -1,0 +1,25 @@
+body {
+    overflow-x: hidden;
+}
+
+#flow-text {
+    position: relative;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 400px;
+    height: 30em;
+}
+
+#diagram {
+    position: relative;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: inline-block;
+    width: 100%;
+    vertical-align: top;
+    overflow: hidden;
+}

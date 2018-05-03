@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <script type="text/javascript">
+    WEB_SOCKET_SWF_LOCATION = "/__rack/WebSocketMain.swf";
+    
+  </script>
+  <script type="text/javascript" src="/__rack/swfobject.js"></script>
+  <script type="text/javascript" src="/__rack/web_socket.js"></script>
+
+<script type="text/javascript">
+  RACK_LIVERELOAD_PORT = 35729;
+</script>
+<script type="text/javascript" src="/__rack/livereload.js?host=0.0.0.0&amp;port=35729"></script>
+
+
+    <meta charset='utf-8'>
+    <meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+    <title>Pivotal Gary</title>
+    <link href="/stylesheets/junk.css" rel="stylesheet" type="text/css" /><link href="/stylesheets/pivotal-ui.css" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/particles.min.js" type="text/javascript"></script><script src="/javascripts/pivotal-ui.js" type="text/javascript"></script>
+  </head>
+  <body class='gary gary_index'>
+    <div class='paxl'>
+      <div class='container'>
+        <h1 class='type-neutral-2 pull-left mvn'>
+          <span>Pivotal</span>
+          <span class='em-max'>Gary</span>
+        </h1>
+        <ul class='list-inline pull-right mtl lhxl'>
+          <li>
+            <a class='link-lowlight-inverse' href='/gary'>Gary</a>
+          </li>
+          <li>
+            <a class='link-lowlight-inverse' href='/debra'>Debra</a>
+          </li>
+          <li>
+            <a class='link-lowlight-inverse' href='/kelly'>Kelly</a>
+          </li>
+          <li>
+            <a class='link-lowlight-inverse' href='/todd'>Todd</a>
+          </li>
+          <li>
+            <a class='link-lowlight-inverse' href='/wiley'>Wiley</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <hr class='divider-alternate-2 mvn'>
+    <div class='pane bg-gradient-2'>
+      <div id='particles'></div>
+      <div class='container pvxxxl'>
+        <div class='pvxxxl txt-c type-neutral-11'>
+          <div class='row mbl'>
+            <div class='col-md-24'>
+              <h1 class='title em-high mvn'>Recontextualize Innovative Paradigms</h1>
+              <h2 class='mtn type-neutral-9'>Expedite Distributed Bandwidth</h2>
+            </div>
+          </div>
+          <div class='row'>
+            <div class='col-md-8 col-md-offset-8'>
+              <a class='btn btn-primary btn-lg btn-block em-alt' href='https://console.run.pivotal.io/register'>Sign up for free</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class='pane bg-neutral-10'>
+      <div class='container'>
+        <div class='row'>
+          <div class='col-md-8'>
+            <div class='panel panel-basic bg-neutral-11'>
+              <div class='panel-body txt-c pvxxl'>
+                <h3>Benchmark Front-end Technologies</h3>
+                <p class='type-sm'>
+                  Quickly aggregate B2B users and worldwide potentialities. Progressively plagiarize resource-leveling e-commerce through resource-leveling core competencies. Dramatically mesh low-risk.
+                </p>
+                <button class='btn btn-highlight btn-block'>BUY!</button>
+              </div>
+            </div>
+          </div>
+          <div class='col-md-8'>
+            <div class='panel panel-basic bg-neutral-11'>
+              <div class='panel-body txt-c pvxxl'>
+                <h3>Productize Plug-And-Play Platforms</h3>
+                <p class='type-sm'>
+                  Quickly aggregate B2B users and worldwide potentialities. Progressively plagiarize resource-leveling e-commerce through resource-leveling core competencies. Dramatically mesh low-risk.
+                </p>
+                <button class='btn btn-highlight btn-block'>BUY!!</button>
+              </div>
+            </div>
+          </div>
+          <div class='col-md-8'>
+            <div class='panel panel-basic bg-neutral-11'>
+              <div class='panel-body txt-c pvxxl'>
+                <h3>Maximize Cross-Media Technologies</h3>
+                <p class='type-sm'>
+                  Quickly aggregate B2B users and worldwide potentialities. Progressively plagiarize resource-leveling e-commerce through resource-leveling core competencies. Dramatically mesh low-risk.
+                </p>
+                <button class='btn btn-highlight btn-block'>BUY!!!</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <hr class='divider-alternate-1 mtxxxl'>
+        <div class='row'>
+          <div class='col-md-16 col-md-offset-4'>
+            <p class='h2 txt-c'>
+              Rapaciously seize adaptive infomediaries and user-centric intellectual capital. Collaboratively unleash market-driven "outside the box" thinking for long-term high-impact solutions. Enthusiastically engage fully tested process improvements before top-line platforms.
+            </p>
+          </div>
+        </div>
+        <hr class='divider-alternate-1 mbxxxl'>
+        <div class='row'>
+          <div class='col-md-8 col-md-offset-4'>
+            <div class='panel panel-basic bg-neutral-11'>
+              <div class='bg-accent-3 paxxxl aligner'>
+                <p class='txt-c aligned-item'>
+                  <img src="/images/svg--textclipboard.svg" />
+                </p>
+              </div>
+              <div class='panel-body txt-c pvxxl'>
+                <h3>Benchmark Front-end Technologies</h3>
+                <p class='type-sm'>
+                  Quickly aggregate B2B users and worldwide potentialities. Progressively plagiarize resource-leveling e-commerce through resource-leveling core competencies. Dramatically mesh low-risk.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class='col-md-8'>
+            <div class='panel panel-basic bg-neutral-11'>
+              <div class='bg-accent-3 paxxxl aligner'>
+                <p class='txt-c aligned-item'>
+                  <img src="/images/svg--commandline.svg" />
+                </p>
+              </div>
+              <div class='panel-body txt-c pvxxl'>
+                <h3>Productize Plug-And-Play Platforms</h3>
+                <p class='type-sm'>
+                  Quickly aggregate B2B users and worldwide potentialities. Progressively plagiarize resource-leveling e-commerce through resource-leveling core competencies. Dramatically mesh low-risk.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class='pane bg-dark-1'>
+      <div class='container'>
+        <div class='row'>
+          <div class='col-md-8 col-md-offset-8'>
+            <h3 class='mtn type-neutral-11'>Disintermediate Interactive Action-items</h3>
+            <form class='styleguide-form form-inline' role='form'></form>
+            <div class='form-group'>
+              <label class='sr-only' for='exampleInputEmail2'>Email address</label>
+              <input class='form-control' id='exampleInputEmail2' placeholder='Enter email' type='email'>
+            </div>
+            <button class='btn btn-highlight-alt btn-block' type='submit'>Get Pivotal Gary</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class='bg-neutral-11'>
+      <div class='container'>
+        <div class='row pvxxxl'>
+          <div class='col-sm-12'>
+            <h2 class='h1 type-neutral-3 em-high'>Powerful Tools for Operations and Monitoring</h2>
+            <p class='mvn'>Compellingly embrace empowered e-business after user friendly intellectual capital. Interactively actualize front-end processes with effective convergence.</p>
+            <p class='mtn'>
+              <a href='https://console.run.pivotal.io/register'>
+                <span>Win Better</span>
+                <i class='fa fa-arrow-right'></i>
+              </a>
+            </p>
+          </div>
+          <div class='col-sm-12'>
+            <p class='man txt-c'>
+              <img src="/images/img--UI-Screen.png" />
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class='bg-neutral-10'>
+      <div class='container pvxxxl'>
+        <div class='row'>
+          <div class='col-md-8'>
+            <div class='panel panel-shadow-3 bg-neutral-11'>
+              <img alt='...' class='img-responsive' height='150' src='https://unsplash.it/400/150?image=35' width='400'>
+              <div class='panel paxl'>
+                <h3 class='em-high mvn'>Sharpie</h3>
+                <p class='mvn'>Something</p>
+              </div>
+            </div>
+          </div>
+          <div class='col-md-8'>
+            <div class='panel panel-shadow-3 bg-neutral-11'>
+              <img alt='...' class='img-responsive' height='150' src='https://unsplash.it/400/150?image=10' width='400'>
+              <div class='panel paxl'>
+                <h3 class='em-high mvn'>Sharpie</h3>
+                <p class='mvn'>Something</p>
+              </div>
+            </div>
+          </div>
+          <div class='col-md-8'>
+            <div class='panel panel-shadow-3 bg-neutral-11'>
+              <img alt='...' class='img-responsive' height='150' src='https://unsplash.it/400/150?image=11' width='400'>
+              <div class='panel paxl'>
+                <h3 class='em-high mvn'>Sharpie</h3>
+                <p class='mvn'>Something</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class='row'>
+          <div class='col-md-8'>
+            <div class='panel panel-shadow-3 bg-neutral-11'>
+              <img alt='...' class='img-responsive' height='150' src='https://unsplash.it/400/150?image=34' width='400'>
+              <div class='panel paxl'>
+                <h3 class='em-high mvn'>Sharpie</h3>
+                <p class='mvn'>Something</p>
+              </div>
+            </div>
+          </div>
+          <div class='col-md-8'>
+            <div class='panel panel-shadow-3 bg-neutral-11'>
+              <img alt='...' class='img-responsive' height='150' src='https://unsplash.it/400/150?image=90' width='400'>
+              <div class='panel paxl'>
+                <h3 class='em-high mvn'>Sharpie</h3>
+                <p class='mvn'>Something</p>
+              </div>
+            </div>
+          </div>
+          <div class='col-md-8'>
+            <div class='panel panel-shadow-3 bg-neutral-11'>
+              <img alt='...' class='img-responsive' height='150' src='https://unsplash.it/400/150?image=51' width='400'>
+              <div class='panel paxl'>
+                <h3 class='em-high mvn'>Sharpie</h3>
+                <p class='mvn'>Something</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class='row'>
+          <div class='col-md-8'>
+            <div class='panel panel-shadow-3 bg-neutral-11'>
+              <img alt='...' class='img-responsive' height='150' src='https://unsplash.it/400/150?image=34' width='400'>
+              <div class='panel paxl'>
+                <h3 class='em-high mvn'>Sharpie</h3>
+                <p class='mvn'>Something</p>
+              </div>
+            </div>
+          </div>
+          <div class='col-md-8'>
+            <div class='panel panel-shadow-3 bg-neutral-11'>
+              <img alt='...' class='img-responsive' height='150' src='https://unsplash.it/400/150?image=100' width='400'>
+              <div class='panel paxl'>
+                <h3 class='em-high mvn'>Sharpie</h3>
+                <p class='mvn'>Something</p>
+              </div>
+            </div>
+          </div>
+          <div class='col-md-8'>
+            <div class='panel panel-shadow-3 bg-neutral-11'>
+              <img alt='...' class='img-responsive' height='150' src='https://unsplash.it/400/150?image=51' width='400'>
+              <div class='panel paxl'>
+                <h3 class='em-high mvn'>Sharpie</h3>
+                <p class='mvn'>Something</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class='bg-neutral-11'>
+      <hr class='divider-alternate-2 mvn'>
+      <ul class='list-vertical-divider txt-c mbn'>
+        <li class='col-md-6 phxl'>
+          <div class='height-enforcer'>
+            <i class='fa fa-coffee title mtxxl type-neutral-6'></i>
+            <p class='h5'>et repudiandae nihil maxime debitis in ut aut eos tempora magni architecto laudantium laborum ipsum perspiciatis architecto sint et sint architecto corrupti tempore magni nisi</p>
+          </div>
+        </li>
+        <li class='col-md-6 phxl'>
+          <div class='height-enforcer'>
+            <i class='fa fa-cogs title mtxxl type-neutral-6'></i>
+            <p class='h5'>et repudiandae nihil maxime debitis in ut aut eos tempora magni architecto laudantium laborum ipsum perspiciatis architecto sint et sint architecto corrupti tempore magni nisi</p>
+          </div>
+        </li>
+        <li class='col-md-6 phxl'>
+          <div class='height-enforcer'>
+            <i class='fa fa-trophy title mtxxl type-neutral-6'></i>
+            <p class='h5'>et repudiandae nihil maxime debitis in ut aut eos tempora magni architecto laudantium laborum ipsum perspiciatis architecto sint et sint architecto corrupti tempore magni nisi</p>
+          </div>
+        </li>
+        <li class='col-md-6 phxl'>
+          <div class='height-enforcer' style='height: 250px'>
+            <i class='fa fa-group title mtxxl type-neutral-6'></i>
+            <p class='h5'>et repudiandae nihil maxime debitis in ut aut eos tempora magni architecto laudantium laborum ipsum perspiciatis architecto sint et sint architecto corrupti tempore magni nisi</p>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <hr class='divider-alternate-2 mvn'>
+    <div class='container-fluid'>
+      <div class='row'>
+        <div class='col-md-12 phxl mountains txt-c'>
+          <div class='aligner txt-c' style='height: 500px'>
+            <div class='aligned-item'>
+              <p class='h1 type-neutral-10 title mbn'>177,185,150</p>
+              <p class='type-neutral-10 em-alt mtn'>Tests run so far.</p>
+            </div>
+          </div>
+        </div>
+        <div class='col-md-12 phxl bg-gradient-2'>
+          <div class='aligner' style='height: 500px'>
+            <div class='aligned-item'>
+              <p class='h2 type-neutral-11'>We're changing the way quality software gets made.</p>
+              <p class='type-neutral-11 h5'>We believe continuous integration and delivery should be simple and painless for all software teams. By providing a secure and reliable cloud testing platform, we enable modern organizations to bring quality applications to market faster and more cost-effectively.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class='pane bg-neutral-11 paxl'>
+      <div class='container txt-c'>
+        <div class='row'>
+          <div class='col-24'>
+            <h1 class='title type-neutral-1 em-high'>Features</h1>
+            <p class='h4'>Dramatically engage top-line web services vis-a-vis cutting-edge deliverables.</p>
+          </div>
+        </div>
+        <hr class='divider-alternate-1 mtxxl'>
+        <div class='row mbxxl'>
+          <div class='col-md-8'>
+            <i class='fa fa-cloud-download title mtxxl type-accent-2'></i>
+            <h2 class='em-high type-neutral-1'>Something</h2>
+            <p class='type-neutral-3'>Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing.</p>
+          </div>
+          <div class='col-md-8'>
+            <i class='fa fa-cogs title mtxxl type-accent-2'></i>
+            <h2 class='em-high type-neutral-1'>Something</h2>
+            <p class='type-neutral-3'>Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing.</p>
+          </div>
+          <div class='col-md-8'>
+            <i class='fa fa-sitemap title mtxxl type-accent-2'></i>
+            <h2 class='em-high type-neutral-1'>Something</h2>
+            <p class='type-neutral-3'>Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing.</p>
+          </div>
+        </div>
+        <div class='row'>
+          <div class='col-md-8'>
+            <i class='fa fa-cloud-download title mtxxl type-accent-2'></i>
+            <h2 class='em-high type-neutral-1'>Something</h2>
+            <p class='type-neutral-3'>Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing.</p>
+          </div>
+          <div class='col-md-8'>
+            <i class='fa fa-cogs title mtxxl type-accent-2'></i>
+            <h2 class='em-high type-neutral-1'>Something</h2>
+            <p class='type-neutral-3'>Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing.</p>
+          </div>
+          <div class='col-md-8'>
+            <i class='fa fa-sitemap title mtxxl type-accent-2'></i>
+            <h2 class='em-high type-neutral-1'>Something</h2>
+            <p class='type-neutral-3'>Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class='pane bg-neutral-10 paxl'>
+      <div class='container'>
+        <div class='row'>
+          <div class='col-md-20 col-md-offset-4'>
+            <h1 class='title type-neutral-1 em-high'>Frequently Asked Questions</h1>
+          </div>
+        </div>
+        <div class='row mbxxl'>
+          <div class='col-md-8 col-md-offset-4'>
+            <h3 class='em-high type-neutral-1'>What is Pivotal Gary good for?</h3>
+            <p class='type-neutral-3'>Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing.</p>
+          </div>
+          <div class='col-md-8'>
+            <h3 class='em-high type-neutral-1'>Something</h3>
+            <p class='type-neutral-3'>Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing.</p>
+          </div>
+        </div>
+        <div class='row'>
+          <div class='col-md-8 col-md-offset-4'>
+            <h3 class='em-high type-neutral-1'>Something</h3>
+            <p class='type-neutral-3'>Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing.</p>
+          </div>
+          <div class='col-md-8'>
+            <h3 class='em-high type-neutral-1'>Something</h3>
+            <p class='type-neutral-3'>Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class='pane footer bg-dark-1'>
+      <div class='container'>
+        <div class='row'>
+          <div class='col-sm-8'>
+            <p class='type-neutral-4 mtxl'>
+              © 2014 Pivotal Software, Inc.
+              <br>
+              All Rights Reserved.
+            </p>
+            <ul class='list-unstyled'>
+              <li>
+                <a class='link-lowlight-alt' href='/policies/terms-of-service'>Terms of Service</a>
+              </li>
+              <li>
+                <a class='link-lowlight-alt' href='/policies/privacy-policy'>Privacy</a>
+              </li>
+            </ul>
+          </div>
+          <div class='col-sm-4'>
+            <h3 class='h4 type-neutral-11 em-alt mbs'>Product</h3>
+            <ul class='list-unstyled'>
+              <li>
+                <a class='link-lowlight-alt' href='/features/'>Features</a>
+              </li>
+              <li>
+                <a class='link-lowlight-alt' href='/pricing/'>Pricing</a>
+              </li>
+              <li>
+                <a class='link-lowlight-alt' href='https://console.run.pivotal.io/marketplace'>Marketplace</a>
+              </li>
+              <li>
+                <a class='link-lowlight-alt' href='/about/'>About</a>
+              </li>
+            </ul>
+          </div>
+          <div class='col-sm-4'>
+            <h3 class='h4 type-neutral-11 em-alt mbs'>Company</h3>
+            <ul class='list-unstyled'>
+              <li>
+                <a class='link-lowlight-alt' href='http://support.run.pivotal.io'>Support</a>
+              </li>
+              <li>
+                <a class='link-lowlight-alt' href='http://docs.run.pivotal.io'>Docs</a>
+              </li>
+              <li>
+                <a class='link-lowlight-alt' href='https://console.run.pivotal.io/tools'>Tools</a>
+              </li>
+              <li>
+                <a class='link-lowlight-alt' href='http://blog.pivotal.io/cloud-foundry-pivotal'>Blog</a>
+              </li>
+              <li>
+                <a class='link-lowlight-alt' href='http://status.run.pivotal.io'>Status</a>
+              </li>
+              <li>
+                <a class='link-lowlight-alt' href='http://www.pivotal.io/careers'>Jobs</a>
+              </li>
+            </ul>
+          </div>
+          <div class='col-sm-4'>
+            <h3 class='h4 type-neutral-11 em-alt mbs'>Company</h3>
+            <ul class='list-unstyled'>
+              <li>
+                <a class='link-lowlight-alt' href='https://twitter.com/pivotalws'>
+                  <i class='fa fa-twitter mrm'></i>
+                  Twitter
+                </a>
+              </li>
+              <li>
+                <a class='link-lowlight-alt' href='https://www.facebook.com/cloudfoundry'>
+                  <i class='fa fa-facebook-square mrm'></i>
+                  Facebook
+                </a>
+              </li>
+              <li>
+                <a class='link-lowlight-alt' href='https://plus.google.com/+cloudfoundry/posts'>
+                  <i class='fa fa-google-plus-square mrm'></i>
+                  Google Plus
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class='col-sm-5 col-md-4'>
+            <h3 class='h4 type-neutral-11 em-alt mbs'>Need Help?</h3>
+            <ul class='list-unstyled'>
+              <li class='type-neutral-11'>
+                For questions, comments or feedback
+                <br>
+                <a class='link-lowlight-alt' href='mailto:support@run.pivotal.io'>support@run.pivotal.io</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="/javascripts/app.js" type="text/javascript"></script>
+  </body>
+</html>
